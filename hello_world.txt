@@ -1,0 +1,3 @@
+This is a initial text.
+I am currently learning git basics from The Odin Project. 
+An efficient and detailed way to learn the foundations thoroughly. 
